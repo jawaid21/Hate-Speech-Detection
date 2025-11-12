@@ -1,4 +1,3 @@
-*.csv
 *.txt
 *.ini
 *.pkl
@@ -8,3 +7,16 @@
 lingvanex_api_key.txt
 *.pyc
 *.gsheet
+Dataset /Statistics/dataset/*
+Dataset \Statistics/dataset/*
+Model /training/*
+Model \training/*
+Dataset Statistics/dataset/train.csv
+Dataset Statistics/dataset/test.csv
+Dataset Statistics/dataset/val.csv
+Dataset Statistics/old/test.csv
+Dataset Statistics/old/val.csv
+Dataset Statistics/old/train.csv
+Dataset Statistics/old/english_urdu_sindhi_curated_and_translated(full).csv
+Dataset Statistics/dataset/english_urdu_sindhi_curated_and_translated(full).csv
+Dataset Statistics/dataset/english_urdu_sindhi_curated_and_translated(full)_.csv
